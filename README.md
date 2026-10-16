@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Interactive Project Tracker & Gantt Dashboard
 
 An interactive, enterprise-grade R Shiny web application designed for dynamic project management, task monitoring, and execution logging. Built with asynchronous filtering, dynamic Plotly Gantt visualizations, customizable DT data tables, and an embedded SQLite database with transactional persistence.
